@@ -19,6 +19,9 @@
 
 #include "Core/HLE/proAdhoc.h"
 
+// Level Names
+#define PSP_SOL_SOCKET			0xffff
+
 // Option Names
 #define PSP_SO_REUSEPORT		0x0200
 #define PSP_SO_NBIO				0x1009
